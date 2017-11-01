@@ -1,8 +1,8 @@
-## Arctic Tundra: Electronic left on stand by
+## Arctic Tundra: Electronic devices left on standby
 
 Slide 1
 
-Narrator text: Carbon released when natural gas drilling rigs are constructed, installed and run.
+Narrator text: Carbon is released when natural gas drilling rigs are constructed, installed and run.
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
@@ -15,11 +15,11 @@ Slide 2
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text: Carbon is released as natural gas is transported to treatment plants.  (Interesting fact?)
+Narrator text: Carbon is released as natural gas is transported to treatment plants.  (Interesting fact)
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Natural gas is Burned to create electricity.
+Button 1: Natural gas is burned to create electricity.
 Button 2: Natural gas is transported to power stations.
 Button 3: Natural gas is cleaned and dried. [X]
 
@@ -54,7 +54,7 @@ Slide 5
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text: Carbon is released when natural gas is transported to power stations in the UK.
+Narrator text: Carbon is released when natural gas is transported vua pipes, ships and tankers to power stations in the UK.
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
@@ -80,17 +80,17 @@ Slide 7
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text: Carbon is released as electricity is needed for pylons/power lines to carry electricity. (Interesting fact?)
+Narrator text: Carbon is released as electricity is needed for pylons/power lines to carry electricity. (Interesting fact)
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Window left open.
-Button 2: TV left on standby.
-Button 3: Phone left on charge.
+Button 1: Window's are left open.
+Button 2: TV's are left on standby.
+Button 3: Phone's are left on charge.
 
 Slide 8
 
-Narrator text: 15 KG of carbon waste per year is from leaving TV’s on standby.  (Interesting fact?) 
+Narrator text: 15kg of carbon is wasted per year from leaving TV’s on standby.  (Interesting fact) 
 
 Show score of questions and time taken.
 
@@ -99,12 +99,12 @@ Show score of questions and time taken.
 
 Slide 1
 
-Narrator text: Carbon is released as trees and plants are cut down to make space for cows and to grow their feed. (Animation)
+Narrator text: Carbon is released as trees and plants are cut down to make space for cows, and to grow their feed. (Animation)
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Fertilisers are used to help cow feed [X]
-Button 2: Customers travel to the shops and restaurants 
+Button 1: Fertilisers are used to help grow cow feed [X]
+Button 2: Customers travel to shops and restaurants to buy and eat beef
 Button 3: Beef is transported to shops 
 
 
@@ -112,13 +112,13 @@ Slide 2
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text: Carbon and nitrous oxide are released from fertilisers that are used to help cow feed to stop them being damaged by pests. 
+Narrator text: Carbon and nitrous oxide are released from fertilisers that are used to help grow cow feed.
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
 Button 1: Water is pumped to provide drink for cows [X]
-Button 2: Farm vehicles used on the fields.
-Button 3: Production of materials used to package beef.
+Button 2: Farm vehicles are used on the fields.
+Button 3: The materials used to package beef are produced.
 
 
 Slide 3
@@ -129,9 +129,9 @@ Narrator text: Carbon is released when electricity pumps water from underground/
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Farm vehicles are used to farm fields[X]
-Button 2: Fertilisers are used to help cow feed
-Button 3: Animals are transported to the slaughter 
+Button 1: Farm vehicles are used to farm fields [X]
+Button 2: Fertilisers are used to help grow cow feed
+Button 3: The cows are transported to the slaughter house
 
 
 Slide 4
@@ -142,7 +142,7 @@ Narrator text: Carbon is released when farm vehicles and machinery are used on t
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Pesticides are put on cow feed to stop being damaged by pests. [X]
+Button 1: Pesticides are used on cow feed to stop it being damaged by pests. [X]
 Button 2: Water is pumped to provide drink for cows 
 Button 3: Methane released when grazing cows pass wind
 
@@ -156,8 +156,8 @@ Narrator text: Carbon is released from pesticides that are put on cow feed to st
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
 Button 1: Methane is released when grazing cows pass wind. [X]
-Button 2: Customers travel to the shops and restaurants 
-Button 3: Production of the materials used to package the beef.
+Button 2: Customers travel to shops and restaurants to buy and eat beef
+Button 3: The materials used to package beef are produced.
 
 
 Slide 6
@@ -177,13 +177,13 @@ Slide 7
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text: Carbon released when animals are transported to the slaughter house.
+Narrator text: Carbon is released when animals are transported to the slaughter house.
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Electricity is used to power resources in the slaughterhouse [X]
-Button 2: Pesticides are put on cow feed to stop being damaged by pests.
-Button 3: Farm vehicles are used to farm field
+Button 1: Electricity is used to power resources in the slaughter house [X]
+Button 2: Pesticides are put on cow feed to stop it being damaged by pests.
+Button 3: Farm vehicles are used to farm fields
 
 
 
@@ -191,13 +191,13 @@ Slide 8
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text:  Carbon is released as electricity powers fridges, lights, computers, heating , water and many more resources in the slaughterhouse 
+Narrator text:  Carbon is released as electricity powers fridges, lights, computers, heating, water and many more resources in the slaughter house 
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Production of the materials used to package the beef.  [X]
+Button 1: The materials used to package beef are produced.  [X]
 Button 2: Trees and plants are cut down to make space for cows 
-Button 3: Fertilisers are used to help cow feed
+Button 3: Fertilisers are used to help grow cow feed
 
 
 Slide 9
@@ -222,21 +222,21 @@ Narrator text:  Carbon is released when beef is transported to the shops and res
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
 Button 1: Electricity powers resources in shops and restaurants  [X]
-Button 2: Pesticides are put on cow feed to stop being damaged by pests.
-Button 3:  Methane is released as beef and packaging decomposes in a landfill 
+Button 2: Pesticides are put on cow feed to stop it being damaged by pests.
+Button 3: Methane is released as beef and packaging decomposes in a landfill 
 
 
 Slide 11
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text:  Carbon is released as electricity power fridges, lights, computers, heating , water and many more  resources in the shops and restaurants.
+Narrator text:  Carbon is released as electricity power fridges, lights, computers, heating, water and many more resources in the shops and restaurants.
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Carbon is released as customers travel to the shops and restaurants  [X]
-Button 2: Farm vehicles used on the fields.
-Button 3: Production of the materials used to package the beef.
+Button 1: Customers travel to shops and restaurants to buy and eat beef  [X]
+Button 2: Farm vehicles are used to farm the fields.
+Button 3: The materials used to package beef are produced.
 
 
 Slide 12
@@ -247,7 +247,7 @@ Narrator text:  Carbon is released as customers travel to the shops and restaura
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1:  Methane is released as beef and packaging decomposes in a landfill  [X]
+Button 1: Methane is released as beef and packaging decomposes in a landfill  [X]
 Button 2: Trees and plants are cut down to make space for cows 
 Button 3: Animals are transported to the slaughter house.
 
@@ -272,7 +272,7 @@ Narrator text: Carbon is released as drilling rigs are constructed, installed an
 
 Button 1: Transportation of the oil to treatment plants [X]
 Button 2: Plastic bottles are packaged
-Button 3: Electricity is used in shops and restaurants
+Button 3: Electricity is used in shops and restaurants that store the plastic bottles
 
 Slide 2
 
@@ -283,7 +283,7 @@ Narrator text: Carbon is released as oil is transported via pipes and ships to t
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
 Button 1: Empty bottles are transported to a bottling plant 
-Button 2: Electricity is used in shops and restaurants
+Button 2: Electricity is used in shops and restaurants that store the plastic bottles
 Button 3: The oil is cleaned [X]
 
 Slide 3
@@ -320,7 +320,7 @@ Narrator text: Carbon is released when electricity is used to make the oil into 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
 Button 1: Transportation of bottles to bottling plant. [X]
-Button 2: Transportation of bottles to shop.
+Button 2: Transportation of bottles to shops.
 Button 3: The bottles are sent to a landfill. 
 
 
@@ -332,7 +332,7 @@ Narrator text: Carbon is released when bottles are transported to a bottling pla
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: The Oil is cleaned.
+Button 1: The oil is cleaned.
 Button 2: Bottles are packaged.
 button 3: Machines fill the bottles with liquid. [X] 
 
@@ -346,7 +346,7 @@ Narrator text: Carbon is released when the machines fill the bottles with liquid
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
 Button 1: The bottles are packaged. [X] 
-Button 2: Electricity is generated for shops and restaurants.
+Button 2: Electricity is used in shops and restaurants that store the plastic bottles
 Button 3: Oil is transported. 
 
 
@@ -358,7 +358,7 @@ Narrator text: Carbon is released when the bottles are packaged.  (ANIMATION OF 
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Bottles are labeled.
+Button 1: Oil is transported to treatment plants.
 Button 2: Bottles are transported to shops and restaurants. [X]
 Button 3: Bottles are transported to treatment plant.
 
@@ -372,7 +372,7 @@ Narrator text:  Carbon is released from transporting bottles to restaurants and 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
 Button 1: Electricity is used to power resources in the shops and restaurants. [X]
-Button 2: Bottles are sold.
+Button 2: Drilling rigs are constucted, installed and run.
 Button 3: Bottles are thrown to the landfill.
 
 
@@ -380,13 +380,13 @@ Slide 10
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text: Carbon is released as electricity power fridges, lights, computers, heating, water and many more resources in the shops and restaurants . (NO ANIMATION)
+Narrator text: Carbon is released as electricity power fridges, lights, computers, heating, water and many more resources in the shops and restaurants. (NO ANIMATION)
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Bottles are recycled. 
+Button 1: Machinery fills the bottles with liquid. 
 Button 2: Drilling rigs are constructed
-Button 3: Customer's travel to shops and restaurants. [X]
+Button 3: Customer's travel to shops and restaurants to buy plastic bottles. [X]
 
 
 Slide 11
@@ -399,14 +399,14 @@ Narrator text: Carbon is released as customer’s travel to shops and restaurant
 
 Button 1: Bottles decompose in landfill. [X]
 Button 2: Transportation of the oil to treatment plants 
-Button 3: Bottles are refilled. 
+Button 3: Drilling rigs are constructed, installed and run. 
 
 
 Slide 12
 
 (tick or cross will appear if correct or incorrect)
 
-Narrator text: Methane is released as bottles decompose in landfills. (Interesting fact?) (NO ANIMATION)
+Narrator text: Methane is released as bottles decompose in landfills. (Interesting fact) (NO ANIMATION)
 
 
 Show score of questions and time taken.
@@ -421,7 +421,7 @@ Narrator text: Carbon released as mines are constructed, installed and run to ex
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Raw materials are cleaned. 
+Button 1: Raw materials are thrown away. 
 Button 2: Raw materials are transported to factories. [X]
 Button 3: Raw materials are burned. 
 
@@ -447,7 +447,7 @@ Narrator text: Carbon is released when electricity is generated to construct raw
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Phones are recycled. 
+Button 1: Phones are thrown away. 
 Button 2: Phones are transported to factories.
 Button 3: Phones are packaged. [X]
 
@@ -460,7 +460,7 @@ Narrator text: Carbon is released when mobile phones are packaged.(NO ANIMATION 
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Phones are sold.
+Button 1: Raw materials are transported.
 Button 2: Phones are transported to the shops. [X]
 Button 3: Phones are charged.
 
@@ -486,9 +486,9 @@ Narrator text: Carbon is released as electricity powers lights, computers, heati
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Customer reads a book.
-Button 2: Customer makes a cup of tea.
-Button 3: Customer travels to the phone shop. [X]
+Button 1: Raw materials are transported to factories.
+Button 2: Electricity is used to turn raw materials into mobile phones.
+Button 3: Customers travel to the phone shops. [X]
 
 
 Slide 7
@@ -501,7 +501,7 @@ Narrator text: Carbon is released as customers travel to the phone shop.(ANIMATI
 
 Button 1: Phone is thrown in landfill.
 Button 2: Electricity is used to charge the phone. [X]
-Button 3: Phones are sold.
+Button 3: Mines are constructed.
 
 Slide 8
 
@@ -511,9 +511,9 @@ Narrator text: Carbon is released when electricity is used every time the phone 
 
 (Will appear after information text has been read)  Tap one of the buttons below to select which step you think comes next!
 
-Button 1: Phone is recycled.
-Button 2: Phone is sold 2nd hand.
-Button 3: Phone is thrown in landfill.  [X] 
+Button 1: Electricity is used to turn raw materials into mobile phones.
+Button 2: Customers travel to phone shops.
+Button 3: Raw materials continue to be drilled/mined.  [X] 
 
 
 Slide 9
