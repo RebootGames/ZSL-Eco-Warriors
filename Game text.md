@@ -542,7 +542,7 @@ Any time fact: Permafrost is the frozen layer of soil in the ground of the tundr
 
 Any time fact: Melted water and rainfall to soak right through the soil so there is less water sources for the animals
 
-Any time fact: Some scientists believe that at this rate the Arctic could be ice-free by 2030 or even earlier
+Any time fact: Some scientists believe that at this rate the Arctic could be ice-free by 2030 or even earlier!
 
 Ocean
 
