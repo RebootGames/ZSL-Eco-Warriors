@@ -28,14 +28,13 @@
 
 ## Techniques
 ### Interviews
-#### 
-We had multiple interviews with ZSL. The first one was when Michelle came in to tell us about the project and what she wants at the end of it. We all took notes so that we could get more information from what she was saying as well as off the Power Point she had. The other Interview we did was when we were at ZSL presenting are final game.
+#### Multiple interviews with ZSL. The first one was with a ZSL representative Michelle who came in to explain the project that she wanted for us to work on. We all took notes so that we could get more information from what she was saying as well as off the PowerPoint she used to present out some of the information. The other interviews we had was when we presented our concept designs and ideas and then the final interview which was showing the completion of the whole game. 
 
 ### Prototyping
-We used prototyping when was creating are game in Unity we tested everything after doing sections of code and saving backups all the time. We also loaded up separate Unity programs to test certain parts to see if each part was working so if we had a problem when we put it together it would be easier to find the problem
+#### Prototyping was used when creating different variations of the game that we wanted in Unity which we also tested after doing each section of the prototypes. We all took notes so that we could get more information from what she was saying as well as off the Power Point she had. This also helped us in checking whether this idea will work and how long does it take to make it successful. 
 
 ### Presentations
-We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across
+#### We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across
 
 ## First Client Meeting (2nd October 2017)
 #### The first time we met the client was on the 2nd of October, a representative from ZSL came into the college to give a presentation on what they roughly want within the game. This included some of the requirements that had to be within the game, such as what the game should look like, the genre of the game, target audience and how much time there given to complete the whole game.
