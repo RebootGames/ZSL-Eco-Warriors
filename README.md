@@ -32,3 +32,11 @@
 #### We already created a contingency plan if the presentation does not work correctly so we printed out handouts of what the presentation would look like incase if it does not load up correctly which will be given to the ZSL representatives. Back-ups were also done on multiple USB drives so that it one gets corrupeted or the the file does not load then we will have access to another copy. 
 
 #### Some of the ideas we had presented were slightly of course of what the representatives visualised but in this it helped us understand more of what they imagined it would look like. The feedback was very useful as we were unsure on some minor parts of the game. But this set us back on track with exactly what had to be done for the client to aprove it. 
+
+## Final Meeting (Deadline 7th November 2017)
+#### As we had everything ready for the pitch to show the amount of effort we have put into the game and to make it suit the needs of the audience and of the clients vision of how it would look like. So we also prepared backups on multiple USb drives if our presentation fails and so we know we have a spare. Also we have the game available to use on some tablets which we have brought ourselves so that it can be used by the judges to see how it feels for them and whether they like how the whole game works itself. 
+#### Unfortunately our group did not get chosen out of the other groups that were there but we found out that we were the runners up and thought that our idea was very good and it very well made overall but had a hard decision between the two. 
+
+## Conclusion 
+#### Overall in my opinion thw whole team work well together as we combined ideas and suggestions that might make the game better or more appealing to the audience. We had a few problems on some parts but worked it out in the end as team always helped one another out if they were stuck on something that they couldn't get their head around. It was a good expereince and challenge especially in the short amount of time given and would love to try another some time soon.
+
