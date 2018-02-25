@@ -12,6 +12,30 @@
 
 #### One of the main targets we all had was the completion of the game itself but also some of the smaller targets we had was on deciding on some of the game designs and gameplay of the game itself.
 
+## Tools and Techniques
+## Tools
+### Photoshop
+#### Photoshop was used in our project to create the characters that the player would choose at the beginning of the game which will represent them for the rest of the game. We also used Photoshop to edit some of the background ont he four habitats and some of assets that were used in the game. This saved us some money instead of buying everything from the web which some were quite expensive. We also used Photoshop to create the maze in are first prototype of our game. 
+
+### Github
+#### We used Github quite a lot to have most of our documentation shared between all of us so when we are not in class this can be uploaded and used by our whole group at home to then also modify it. This helped to keep backup of our work so that incase it was lost on someones drive then we knew there is a backup on Github. 
+
+### Unity
+#### Unity was a huge help to us as it was used to create the application. Unity was one of the best choices to use as it had functions which allowed multiple members of the group modify parts of the game and then shared between everyone in the group. This helped complete the application in a much faster pace as multiple members were involved in the process. It was a very easy to use tool and has a huge range of assets that could have been used.
+
+### PowerPoint
+#### PowerPoint was only used for our presentations, this was to present our concept designs and ideas that we thought of on one of the first pitch meetings we had with the ZSL representatives. This was also used to show the final look and design on PowerPoint. We showed are finished design and how we adapted to feedback. The reason we used PowerPoint was that it is the simplest and best presentation software out there. We also used PowerPoint online so all four of us could work on different slides for the certain parts of work that each person did.
+
+## Techniques
+### Interviews
+We had multiple interviews with ZSL. The first one was when Michelle came in to tell us about the project and what she wants at the end of it. We all took notes so that we could get more information from what she was saying as well as off the Power Point she had. The other Interview we did was when we were at ZSL presenting are final game.
+
+### Prototyping
+We used prototyping when was creating are game in Unity we tested everything after doing sections of code and saving backups all the time. We also loaded up separate Unity programs to test certain parts to see if each part was working so if we had a problem when we put it together it would be easier to find the problem
+
+### Presentations
+We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across
+
 ## First Client Meeting (2nd October 2017)
 #### The first time we met the client was on the 2nd of October, a representative from ZSL came into the college to give a presentation on what they roughly want within the game. This included some of the requirements that had to be within the game, such as what the game should look like, the genre of the game, target audience and how much time there given to complete the whole game.
 
