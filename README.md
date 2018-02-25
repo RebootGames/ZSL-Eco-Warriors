@@ -57,6 +57,18 @@
 
 #### Some of the ideas we had presented were slightly of course of what the representatives visualised but in this it helped us understand more of what they imagined it would look like. The feedback was very useful as we were unsure on some minor parts of the game. But this set us back on track with exactly what had to be done for the client to aprove it. 
 
+## Preparation
+#### In order to prepare for the final pitch our team will need to divide the work up evenly between the 4 of us. This is how we decided to divide the work.
+
+### Matthew and Daniel (Powerpoint)
+#### Matthew and Codrin will be in charge of creating the PowerPoint presentation which will include all of the concept art that will be used within the game. Daniel will be focused more on the creating the concept art that will be presented whilst Matthew will be focusing on adding in all the neccessary information that will explaing all the features that will be in the application. 2 members of the group were put to this task as we knew that PowerPoint is the main asset that will be showing all the work we have put together to create the app, so we wanted to make sure it was completed on time and to a high standard.
+
+### Bec(Handouts)
+#### Bec will be responsible for creating the handouts that will be given to the ZSL representatives that will be present at the pitch. In these handouts they will include the same information that will be on the PowerPoint presentation but will also have some extra detailed information as the PowerPoint which only have points in that will be expanded on whilst the handout will have all of the info within in. Bec will be working closely to Matthew and Codrin so that the handouts and the PowerPoint have the same informaiton.
+
+### Oliver and Codrin(Script/Notes)
+#### Olvier and Codrin will be creating the script and notes that will be used during the presentation. This will be important so that the notes can help if the person presenting will get stuck on a point that is vital for the audience to know about it. For this they will have to work with Matthew to make sure the points and notes are connected. 
+
 ## Final Meeting (Deadline 7th November 2017)
 #### As we had everything ready for the pitch to show the amount of effort we have put into the game and to make it suit the needs of the audience and of the clients vision of how it would look like. So we also prepared backups on multiple USb drives if our presentation fails and so we know we have a spare. Also we have the game available to use on some tablets which we have brought ourselves so that it can be used by the judges to see how it feels for them and whether they like how the whole game works itself. 
 #### Unfortunately our group did not get chosen out of the other groups that were there but we found out that we were the runners up and thought that our idea was very good and it very well made overall but had a hard decision between the two. 
