@@ -73,6 +73,31 @@
 
 #### Some of the ideas we had presented were slightly of course of what the representatives visualised but in this it helped us understand more of what they imagined it would look like. The feedback was very useful as we were unsure on some minor parts of the game. But this set us back on track with exactly what had to be done for the client to aprove it. 
 
+## Quantitative Research (Survey)
+#### So to make sure that the ideas were suitable for the audience/client, we needed to conduct some research to see if people agreed with the statements we had. To do this we produced a quantitative survery that we then handed out to many of our colleagues and other students to check what their opinion is on our design. The statements had answers that ranged from 1-10, with 1 being "Strongly Agree" and 10 being "Strongly Disagree". The maximum amount of colleagues we asked was 15 and roughly another 15 random students were aksed also to fill out the survery on the game. Each person was shown the following 3 images of our game (With a description of what is happening) and were asked the following statements.
+
+### Statement 1. The artistic design shown is suitable for children aged between 11 - 16.
+### Average Response - 8.8
+#### The average mean for this statement was a 8.8. This shows that a very strong indication that the art style that was used is close to what you would expect from a childrens game. But some aspects of the art can be tweaked on. We decided that we would need to ask questions to the client to get a more detailed response on the art style.
+
+### Statement 2. The game CLEARLY presents the greenhouse gas chain information.
+### Average Response - 9.2
+#### The average mean for this statement was a 9.2 which was very good. This showed us that the inforation about the greenhouse gas chain was presented very well and that all the info was clearly visible for everyone to see. This means that the game is meeting the educational requirement that the client set for us.  
+
+### Statement 3. The game looks simple and intuitive to play (Easy Controls and Easy to Play).
+### Average Response - 6.8
+#### The average mean for this statement was slightly low with a 6.8. This was asked so that we can makes sure that the game coule be quickly picked up without any details to explain what they have to do. So this had to be improved on slightly before they start will show a short example of what to do before the game starts. 
+
+### Statement 4. The game looks entertaining and engaging.
+### Average Response - 5.4
+#### This statement was hard for the reviewer to answer as they did not have a version of the game to play or try out at the time. This was still useful as it still gave us an idea of how it would feel like from other peoples opinion even though they couldn't try it out. We already knew that further testing would be needed for the demo to be finished. The response to this was mixed, averaging 5.4 with highs of 9 and lows of 3. This was expected for this question because as stated before, this question is more difficult to answer without access to a demo. However it gave some indication that work was needed to make the game more engaging.
+
+### Qualitative Research (Client Feedback)
+#### After we had delivered out concept pitch. We openly asked the client for any feedback, good or bad, on our ideas in order to collect more detailed information on our ideas and how they meet or do not meed their needs.
+
+#### The ZSL representatives were quite pleased with the graphics style that was used for the background and some of the animations. They knew that this made it look engaging to the younger audience. However they expressed concern that perhaps we had used more cartoon style for our art work, so the older side of the target audience would not appreciate it as much. But overall thought it still would be fine.
+#### One of the main points that the client was particularly focused about was that how would we present the greenhouse gas chain informaton to the audience. So they did not feel that we had made the greenhouse gas chain the main focus of the game and they believe that our current design does not relate to the greenhouse gas chain. A lot of feeback was given about parts that can be improved on. The main point was that we were not including all of the greenhouse gas informatio. The representatives recommended that we focus less on mini games and more on the greenhouse gas chain itself so that all the information is put across.
+
 ## Final Meeting (Deadline 7th November 2017)
 #### As we had everything ready for the pitch to show the amount of effort we have put into the game and to make it suit the needs of the audience and of the clients vision of how it would look like. So we also prepared backups on multiple USb drives if our presentation fails and so we know we have a spare. Also we have the game available to use on some tablets which we have brought ourselves so that it can be used by the judges to see how it feels for them and whether they like how the whole game works itself. 
 #### Unfortunately our group did not get chosen out of the other groups that were there but we found out that we were the runners up and thought that our idea was very good and it very well made overall but had a hard decision between the two. 
