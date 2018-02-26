@@ -105,3 +105,12 @@
 ## Conclusion 
 #### Overall in my opinion thw whole team work well together as we combined ideas and suggestions that might make the game better or more appealing to the audience. We had a few problems on some parts but worked it out in the end as team always helped one another out if they were stuck on something that they couldn't get their head around. It was a good expereince and challenge especially in the short amount of time given and would love to try another some time soon.
 
+
+### Analysis of the Research (Meeting With Client and Student Survey)
+Noted feedback from the client:
+  * Application was too complex
+  * Application was too game focused insteand of giving information
+  * Application wasn't showing the importance of gas meter.
+
+So we've got it wrong from the beginning, but we've managed to remake our application to repair our mistakes. We've focused on giving the player information while he was having fun and displaying how the gas meter affects the entire world.
+
