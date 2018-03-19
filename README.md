@@ -103,7 +103,7 @@
 #### Unfortunately our group did not get chosen out of the other groups that were there but we found out that we were the runners up and thought that our idea was very good and it very well made overall but had a hard decision between the two. 
 
 ## Conclusion 
-#### Overall in my opinion thw whole team work well together as we combined ideas and suggestions that might make the game better or more appealing to the audience. We had a few problems on some parts but worked it out in the end as team always helped one another out if they were stuck on something that they couldn't get their head around. It was a good expereince and challenge especially in the short amount of time given and would love to try another some time soon.
+#### Overall in my opinion the whole team work well together as we combined ideas and suggestions that might make the game better or more appealing to the audience. We had a few problems on some parts but worked it out in the end as team always helped one another out if they were stuck on something that they couldn't get their head around. It was a good expereince and challenge especially in the short amount of time given and would love to try another some time soon.
 
 
 ### Analysis of the Research (Meeting With Client and Student Survey)
