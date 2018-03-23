@@ -1,6 +1,6 @@
 # ZSL-Eco-Warriors
 
-## Project Management Documentatio
+## Project Management Documentation
 ### Project Overview
 #### Matthew Kaptur, Codrin Axnite, Daniel Edson, Oliver Slape
 #### We have been contacted by the Zoological Society of London (ZSL) and they have asked us to design and produce an educational game that is based around the greenhouse chain that have 4 products (Plastic bottles, Mobile Phones, Beef and Electronics left on stand-by) which affect these 4 habitats (Ocean, Rainforest, Countryside, Artic Tundra). This game can be used and accessable by anyone but will be mainly used in classes that the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. Regular meetings will be held with the client so that information and feedback can be given on some of ideas and on anything they would want to change so that the client can be satisfied. 
