@@ -1,7 +1,50 @@
 # ZSL-Eco-Warriors
 
-## Project Overview
+## Project Management Documentatio
+### Project Overview
+#### Matthew Kaptur, Codrin Axnite, Daniel Edson, Oliver Slape
 #### We have been contacted by the Zoological Society of London (ZSL) and they have asked us to design and produce an educational game that is based around the greenhouse chain that have 4 products (Plastic bottles, Mobile Phones, Beef and Electronics left on stand-by) which affect these 4 habitats (Ocean, Rainforest, Countryside, Artic Tundra). This game can be used and accessable by anyone but will be mainly used in classes that the ZSL run at London Zoo for 11-16 year olds, the first of which will be run on the 14th November 2017. Regular meetings will be held with the client so that information and feedback can be given on some of ideas and on anything they would want to change so that the client can be satisfied. 
+
+### Aims: 
+#### 1. Create an enjoyable game
+#### 2. Have interactivity within the game
+#### 3. Make it educational
+#### 4. Raise awareness in the game
+
+### Objectives:
+#### 1. Complete design documentation by Monday 16th October 2017
+#### 2. Complete proposal documentation by Monday 16th October 2017
+#### 3. Complete the development of the game by Sunday 28th October 2017
+#### 4. Test game and check if ready for presentation to the client by Monday 6th November 2017
+
+### Cost:
+#### The first thing that was looked upon is the time, since this project was for a competition which means the work we were doing was for free, so the cost of our time equalled to £0. Secondly, the items that 'cost' money was the systems that were used to creat the app. So in order for use to develop the application, we needed to have a system which exceeded our needs and requirements. The systems that were used at college are roughly around £1500 each. This brings the cost up to £6000 as they're 4 of us within the group.
+#### The next cost is the software that was used. The main software that we used to develope the app was Unity, this software cost around £130 per person for a pro license, this means that between all 4 of us it will be £520. Other software used such and Photoshop and other adobe software would roughly cost £40 a month for each software, rounding this up would be £480 for 2 months.
+#### The cost of the internet is unknown as we were developing the game within the college premises, so we were unable to know the cost.
+#### The final cost is the commute from the college to the ZSL whipsnade centre, as we had to hire a minibus which the college did and so we do not know the precise amount that was payed for minibus.
+
+### Scope:
+#### In this project we decided to create a fun interative game for the dedicated age range. Since the time limit was not major and limited we had to simplify the ideas that chosen in order to meet the deadline, but also to make sure we stay in the scope of the project. 
+
+### Time:
+#### The total amount of time that was given to us was 5 weeks to complete the application. 2 weeks was given to complete all of the required design documentation. Also within the first 2 weeks a proposal document had to be completed to present and show the client the idea that will be used. The 3rd and 4th week was where the development and contrsution of the application, the final week was then used to finalise the application by testing everything and making sure that all the assets and mechanics worked. 
+
+### Quality:
+#### Since this project was for an actual professional client with a need to use for an actual audience. The quality of the application has to be high so that the client can be impressed on how well it looks compared to their imagination. This was of course checked throughout the process of development so that the application is presented professionally and visually looks that it was developed in high standards as they suggested.
+
+### Communication:
+#### During the project we communicated a huge amount within the group and to the client so that we may find out any changes the client might want. We kept up to date with everything and team meetings were held once a week so that we can discuss on some of the ideas at hand. Communication with the client was by email so we had to wait for a reply every now and then to check if the ideas that we had for the application were good for them to approve on. This helped a lot during the project as we knew then afterwards that we were on the right path and knew what the outcome of the project will be.
+
+### Risk:
+#### The main risk we had was the reputation. Since this was one of our first clients, we knew that we had to make a good long lasting impression for them so that they would maybe would like to work with us again in the future. This can also help with other contacts they have and would approve us to the tasks they might have related to our course. Having this reputation for our first client can also make us more noticeable by other clients and realise that we were apart of this project and that we did an excellent job during this project.
+
+### Resources:
+#### A number of resources were used to complete the project:
+#### 1. System/PC
+#### 2. Internet Access
+#### 3. Unity Pro
+#### 4. Adobe(Software)
+#### 5. Microsft Office (Word, PowerPoint)
 
 ## Critical Reasoning on the ZSL project
 #### The reasons on why we first chose to do this project was because that we wanted to expand our mindset on other types of software and to expand our knowledge on how clients would specificly like their type of game to look like. This gave us good experience which can be used in future projects with other clients as we will understand much better than before. This porject with ZSL was also done on IOS which was a slight push back as it had a few restraints on our work as some parts of the game would have been inaccessable. The reason it was done on IOS also is that the ZSL clients only had IOS devices to support the game on which was a challenge but we knew how to overcome that later on. This had to be on a mobile app because ZSL wanted the game to be used easily and so that the audience would understand it much faster than using computers or other devices. Also this had to be on a mobile device because the only devices they had to have the game running was those. This device was also good for the audience which was for 11-16 year olds which would understand how to use them much easier than other certain devices. Doing this project on this device means that other people who are not visiting any of the ZSL zoo's and are just visiting the website would be able to access this game on their tablets or mobile phones or even on their PC which will allow them to try it out also. This can be used for teachers in schools which they can use for their students to go through the game to help them learn about the greenhouse gas chain. The audience for this project was for 11-16 year olds this was because if school attended one of these zoo's they would also have an experience in doing this game within the zoo. One of the staff members would have one of the classes to try out the game and to test their knowledge on this subject. This project was all about the environment and greenhouse gases, the reason why was because the idea of the game was to look at how the world is becoming polluted by the certain types of industries. So the project had to be about the four habitats which was the countryside, the tundra, the ocean and the rainforest. These four habitats have certain industries destroying the landscape and creating pollution. So this had to be shown to the children to show them what can be done to stop this type of destruction.
